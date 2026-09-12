@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "market": "Saudi Arabia / GCC",
+  "notes": "Common kitchen aliases for normalization demos. Not exhaustive.",
+  "aliases": [
+    {"ar": "باذنجان", "en": ["eggplant", "aubergine"], "tags": ["vegetable"]},
+    {"ar": "كوسة", "en": ["zucchini", "courgette"], "tags": ["vegetable"]},
+    {"ar": "بامية", "en": ["okra"], "tags": ["vegetable"]},
+    {"ar": "ملوخية", "en": ["molokhia", "jute mallow"], "tags": ["leafy"]},
+    {"ar": "أرز بسمتي", "en": ["basmati rice"], "tags": ["grain"]},
+    {"ar": "برغل", "en": ["bulgur", "bulghur"], "tags": ["grain"]},
+    {"ar": "لبن", "en": ["laban", "buttermilk", "yogurt drink"], "tags": ["dairy"]},
+    {"ar": "زبادي", "en": ["yogurt", "yoghurt"], "tags": ["dairy"]},
+    {"ar": "سمن", "en": ["ghee", "samna"], "tags": ["fat"]},
+    {"ar": "دجاج", "en": ["chicken"], "tags": ["protein"]},
+    {"ar": "لحم مفروم", "en": ["minced meat", "ground beef"], "tags": ["protein"]},
+    {"ar": "تمر", "en": ["dates"], "tags": ["fruit"]},
+    {"ar": "حمص", "en": ["chickpeas", "garbanzo"], "tags": ["legume"]},
+    {"ar": "عدس", "en": ["lentils"], "tags": ["legume"]},
+    {"ar": "طحينة", "en": ["tahini", "tehina"], "tags": ["pantry"]},
+    {"ar": "خبز عربي", "en": ["pita", "arabic bread"], "tags": ["bread"]},
+    {"ar": "رقائق الشوفان", "en": ["oats", "oatmeal"], "tags": ["grain"]},
+    {"ar": "بيض", "en": ["eggs", "egg"], "tags": ["protein"]}
+  ]
+}
